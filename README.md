@@ -1,0 +1,1 @@
+A simple Express.js backend that returns user info and a random cat fact.
